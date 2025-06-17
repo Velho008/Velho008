@@ -10,17 +10,17 @@
  
 ---
 
-##🔧 **Linguagens conhecidas**
+## 🔧**Linguagens conhecidas**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,md,html,css,git)](https://skillicons.dev)
 
 ---
 
-<div>
-  <a href="https://github.com/Velho008">
-  <img height="180em" src="https://
-  
-</div>
+## **dados interessantes** 📈
+![Velho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velho008&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velho008&layout=compact&theme=dark)
+
+---
 
 ## **Onde me encontrar?**  🙋‍♂️
 
