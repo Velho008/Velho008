@@ -25,5 +25,6 @@
 ## **Onde me encontrar?**  🙋‍♂️
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Velho008)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-velho-a1b241370/?trk=opento_sprofile_topcard)
 
 ---
