@@ -1,8 +1,8 @@
 # **Olá!👋 Bem vindo ao perfil de um futuro engenheiro de software**
 
-🔭 **atualmente trabalhando em:** um projeto da faculdade, fazer um site de gerenciamento e inscrição de eventos
+🔭 **atualmente trabalhando em:** monitoria de Orientação A Objetos na UnB
 
-🌱 **atualmente aprendendo:** desenvolvimento de sites e integração do front-end com o back-end
+🌱 **atualmente aprendendo:** aprendendo C e C++
 
 🤔 **busco ajuda em:** aprender machine learning e IA
 
