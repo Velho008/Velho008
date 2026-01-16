@@ -1,6 +1,6 @@
 # **Olá!👋 Bem vindo ao perfil de um futuro engenheiro de software**
 
-🔭 **atualmente trabalhando em:** monitoria de Orientação A Objetos na UnB
+🔭 **atualmente trabalhando em:** após dar monitoria de APC e OO na UnB, estou atualmente fazendo parte da EJ "orcestra"
 
 🌱 **atualmente aprendendo:** aprendendo C e C++
 
